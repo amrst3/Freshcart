@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/699.11ba64e1.chunk.css","mappings":"AAGA,oCACE,4BACE,mBACF,CACF","sources":["Component/Categories/Categories.module.css"],"sourcesContent":[".Categories {\r\n}\r\n\r\n@media screen and (max-width: 767px) {\r\n  .screenSm {\r\n    width: 50% !important;\r\n  }\r\n}\r\n"],"names":[],"sourceRoot":""}
