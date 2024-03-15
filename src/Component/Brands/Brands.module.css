@@ -1,0 +1,8 @@
+.Brands {
+}
+
+@media screen and (max-width: 767px) {
+  .screenSm {
+    width: 50% !important;
+  }
+}

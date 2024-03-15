@@ -1,0 +1,13 @@
+.Footer {
+}
+
+@media screen and (max-width: 767px) {
+  footer .paymentMethod,
+  footer .payment,
+  footer .app {
+    flex-direction: column !important;
+  }
+  .paymentMethod .image img {
+    width: 54px;
+  }
+}

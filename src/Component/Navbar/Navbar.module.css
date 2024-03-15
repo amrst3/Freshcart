@@ -1,0 +1,23 @@
+nav {
+  transition: all 0.3s;
+}
+
+nav .count {
+  background-color: var(--main-color);
+  color: #fff;
+  font-size: 10px;
+  padding: 2px 7px;
+  border-radius: 9px;
+  position: absolute;
+  top: -4px;
+  left: 5px;
+}
+
+@media screen and (max-width: 767px) {
+  nav ul li {
+    text-align: center;
+  }
+  nav ul .social {
+    display: none !important;
+  }
+}
